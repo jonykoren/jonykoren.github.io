@@ -909,4 +909,14 @@
     $(":input").not("[type=image],[type=submit]").jqBootstrapValidation.apply(this,arguments);
   };
 
+	
+      
+  /**
+   * disable right click
+  **/	
+$("html").on("contextmenu",function(e){
+   return false;
+});
+	
+	
 })( jQuery );
