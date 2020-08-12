@@ -194,14 +194,8 @@ margin-left: 150px;
 
 @media only screen and (max-width: 600px) {
 	
-	#portfolio .portfolio-item .portfolio-link  {
+	div#skull_caption.caption{
 	max-width:360px important;
-	}
-	#portfolio .portfolio-item .portfolio-link .caption  {
-	max-width:360px important;
-	}	
-		div.caption  {
-	max-width:360px important!;
 	}	
 	
 	h2#bmi_L{
