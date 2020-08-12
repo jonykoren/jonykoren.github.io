@@ -194,6 +194,10 @@ margin-left: 150px;
 
 @media only screen and (max-width: 600px) {
 	
+	a.portfolio-link{
+	max-width:360px
+	}
+	
 	h2#bmi_L{
 	font-size:20px;
 	}	
