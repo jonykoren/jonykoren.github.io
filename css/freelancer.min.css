@@ -185,7 +185,23 @@ a:hover{
 font-weight: bold !important;
 
  }
+@media only screen and (min-width: 600px) {
+ svg#jony_cv{
 
+margin-left: 150px;
+ }
+}
+
+@media only screen and (max-width: 600px) {
+ svg#jony_cv{
+
+margin-left: -136px;
+transform: scale(0.85);
+    margin-top: -125px;
+    margin-bottom: -214px;
+
+ }
+}
 
 div.footer-col.col-md-4{
 	width: 100%;
