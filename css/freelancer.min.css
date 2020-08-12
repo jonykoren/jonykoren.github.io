@@ -314,3 +314,8 @@ background-color: #62BFF7;
     color: #fff;
     border-color: #62BFF7;
 }
+
+
+div#portfolioModal6.portfolio-modal.modal.fade.in{
+padding-right: 0px !important;
+}
