@@ -211,7 +211,34 @@ margin-left: 150px;
 	}	
 		h2#wi_L{
 	font-size:20px;
-	}	
+	}
+	
+	
+img#BMI2.img-responsive.img-centered {
+    height: 170px;
+    width: 240.4px;
+}
+img#weby.img-responsive.img-centered {
+    height: 170px;
+    width: 224.6px;
+}
+img#sent1.img-responsive.img-centered {
+    height: 170px;
+    width: 209.05px;
+}
+img#vent2.img-responsive.img-centered {
+    height: 170px;
+    width: 248.3px;
+}	
+img#lung.img-responsive.img-centered {
+    height: 170px;
+    width: 174px;
+}	
+img#skull_V.img-responsive.img-centered {
+    height: 170px;
+    width: 170px;
+}	
+	
  svg#jony_cv{
 margin-left: -210px;
     transform: scale(0.55);
