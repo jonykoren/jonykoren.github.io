@@ -208,6 +208,10 @@ margin-left: -210px;
 	.container {
         max-width: 100% !important;
         overflow-x: hidden !important;
+		padding-right: 15px;
+	    padding-left: 15px;
+	    margin-right: auto;
+	    margin-left: auto;
     }
 }
 
