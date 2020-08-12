@@ -1,2 +1,1 @@
-# jonykoren.github.io
-Jonatan Koren
+# Jonatan Koren - Personal Website
