@@ -213,7 +213,7 @@ margin-left: -210px;
 	    margin-right: auto;
 	    margin-left: auto;
     }
-	h2.about_header{
+	h2#about_header{
 	    font-size: 28px;
 
 	}
