@@ -213,8 +213,12 @@ margin-left: -210px;
 	    margin-right: auto;
 	    margin-left: auto;
     }
-	header.intro-text.name{
+	span#main_title.name{
 	    font-size: 28px;
+
+	}
+		span#subtitles.skills{
+	    font-size: 20px;
 
 	}
 	p#pp1.lead{
