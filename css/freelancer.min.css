@@ -194,13 +194,10 @@ margin-left: 150px;
 
 @media only screen and (max-width: 600px) {
  svg#jony_cv{
-
-margin-left: -190px;
+margin-left: -210px;
     transform: scale(0.55);
     margin-top: -296px;
     margin-bottom: -355px;
-	 width:100%;
-    max-width: 480px;
  }
 	div.navbar-header.page-scroll{
 	max-width:480px;
