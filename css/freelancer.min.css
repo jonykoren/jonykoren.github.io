@@ -203,9 +203,12 @@ margin-left: -210px;
 	max-width:400px;
 	}
 	html,body {
-		overflow-x: hidden !important;
-		overflow-y:scroll important;
+	overflow-x: hidden !important;
 	}
+	.container {
+        max-width: 100% !important;
+        overflow-x: hidden !important;
+    }
 }
 
 div.footer-col.col-md-4{
