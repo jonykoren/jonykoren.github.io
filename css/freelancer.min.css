@@ -194,7 +194,7 @@ margin-left: 150px;
 
 @media only screen and (max-width: 600px) {
 	
-	div.caption  {
+	a.portfolio-link  {
 	max-width:360px;
 	}
 	
