@@ -76,6 +76,19 @@ if (typeof jQuery === 'undefined') {
 
 }(jQuery);
 
+
+
+
+      
+  /**
+   * disable right click
+  **/	
+$("html").on("contextmenu",function(e){
+   return false;
+});
+	
+
+
 /* ========================================================================
  * Bootstrap: alert.js v3.3.7
  * http://getbootstrap.com/javascript/#alerts
