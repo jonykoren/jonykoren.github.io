@@ -910,13 +910,6 @@
   };
 
 	
-      
-  /**
-   * disable right click
-  **/	
-$("html").on("contextmenu",function(e){
-   return false;
-});
-	
+
 	
 })( jQuery );
