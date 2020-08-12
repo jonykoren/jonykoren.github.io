@@ -213,6 +213,16 @@ margin-left: -210px;
 	    margin-right: auto;
 	    margin-left: auto;
     }
+	h2.about_header{
+	    font-size: 28px;
+
+	}
+	p#pp1.lead{
+	    font-size: 20px;
+	}
+	ul#ul1{
+	    font-size: 16px;
+	}
 }
 
 div.footer-col.col-md-4{
