@@ -195,9 +195,9 @@ margin-left: 150px;
 @media only screen and (max-width: 600px) {
  svg#jony_cv{
 
-margin-left: -136px;
+margin-left: -150px;
 transform: scale(0.70);
-    margin-top: -125px;
+    margin-top: -165px;
     margin-bottom: -214px;
 
  }
