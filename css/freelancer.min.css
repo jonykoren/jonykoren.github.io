@@ -201,8 +201,12 @@ margin-left: -190px;
     margin-bottom: -355px;
     max-width: 480px;
  }
+	div.navbar-header.page-scroll{
+	max-width:480px;
+	}
 }
 
 div.footer-col.col-md-4{
 	width: 100%;
 }
+
