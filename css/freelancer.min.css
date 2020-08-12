@@ -193,6 +193,25 @@ margin-left: 150px;
 }
 
 @media only screen and (max-width: 600px) {
+	
+	h2#bmi_L{
+	font-size:20px;
+	}	
+		h2#skull_L{
+	font-size:20px;
+	}	
+		h2#lung_L{
+	font-size:20px;
+	}	
+		h2#twitter_L{
+	font-size:20px;
+	}	
+		h2#vent_L{
+	font-size:20px;
+	}	
+		h2#wi_L{
+	font-size:20px;
+	}	
  svg#jony_cv{
 margin-left: -210px;
     transform: scale(0.55);
