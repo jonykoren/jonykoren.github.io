@@ -219,9 +219,11 @@ margin-left: -210px;
 	}
 	p#pp1.lead{
 	    font-size: 20px;
+		    padding: 20px;
 	}
 	ul#ul1{
 	    font-size: 16px;
+		    padding: 20px;
 	}
 }
 
