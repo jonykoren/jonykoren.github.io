@@ -185,6 +185,45 @@ a:hover{
 font-weight: bold !important;
 
  }
+
+#portfolio .portfolio-item {
+margin: 0 0 25px;
+}	
+
+div.footer-col.col-md-4{
+	width: 100%;
+}
+
+button.navbar-toggle:hover{
+background-color: #62BFF7;
+    color: #fff;
+    border-color: #62BFF7;
+}
+
+
+div#portfolioModal6.portfolio-modal.modal.fade.in{
+padding-right: 0px !important;
+}
+div#portfolioModal5.portfolio-modal.modal.fade.in{
+padding-right: 0px !important;
+}
+div#portfolioModal4.portfolio-modal.modal.fade.in{
+padding-right: 0px !important;
+}
+div#portfolioModal3.portfolio-modal.modal.fade.in{
+padding-right: 0px !important;
+}
+div#portfolioModal2.portfolio-modal.modal.fade.in{
+padding-right: 0px !important;
+}
+div#portfolioModal1.portfolio-modal.modal.fade.in{
+padding-right: 0px !important;
+}
+
+
+
+
+ /* PC */
 @media only screen and (min-width: 600px) {
  svg#jony_cv{
 
@@ -192,12 +231,18 @@ margin-left: 150px;
  }
 }
 
+
+
+
+
+ /* Smartphone */
 @media only screen and (max-width: 600px) {
 	
 	.modal-open .modal {
     	overflow-x: hidden !important;
     	overflow-y: hidden !important;
 	}
+	
 	p#skull_txt{
 	font-size:16px;
 	}	
@@ -299,38 +344,19 @@ margin-left: -210px;
 	    font-size: 16px;
 		    margin-left: 30px;
 	}
+
+	h2#portfolio_header{
+	font-size:18px important;	
 	}
-
-#portfolio .portfolio-item {
-margin: 0 0 25px;
-}	
-
-div.footer-col.col-md-4{
-	width: 100%;
-}
-
-button.navbar-toggle:hover{
-background-color: #62BFF7;
-    color: #fff;
-    border-color: #62BFF7;
-}
-
-
-div#portfolioModal6.portfolio-modal.modal.fade.in{
-padding-right: 0px !important;
-}
-div#portfolioModal5.portfolio-modal.modal.fade.in{
-padding-right: 0px !important;
-}
-div#portfolioModal4.portfolio-modal.modal.fade.in{
-padding-right: 0px !important;
-}
-div#portfolioModal3.portfolio-modal.modal.fade.in{
-padding-right: 0px !important;
-}
-div#portfolioModal2.portfolio-modal.modal.fade.in{
-padding-right: 0px !important;
-}
-div#portfolioModal1.portfolio-modal.modal.fade.in{
-padding-right: 0px !important;
-}
+	
+	h2#about_header{
+	font-size:18px important;	
+	}
+	
+	h2#CV_header{
+	font-size:18px important;	
+	}
+	
+	
+	
+	}
