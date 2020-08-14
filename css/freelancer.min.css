@@ -39,21 +39,6 @@ hr#vamos.star-light{
 hr#CV.star-light{
 	border-color: #62BFF7;
 }
-p#pp1.lead{
-
-	font-size: 24px;
-	color: #2C3E50;
-
-}
-
-ul#ul1{
-
-	font-size: 22px;
-	color: #2C3E50;
-        margin-top: -40px;
-
-
-}
 
 section#about.success{
 	background-color: white;
@@ -232,6 +217,19 @@ padding-right: 0px !important;
 margin-left: 150px;
  }
 	section h2{margin:0;font-size:3em}
+	
+	p#pp1.lead{
+
+	font-size: 24px;
+	color: #2C3E50;
+}
+
+ul#ul1{
+
+	font-size: 22px;
+	color: #2C3E50;
+}
+
 }
 
 
@@ -240,6 +238,21 @@ margin-left: 150px;
 
  /* Smartphone */
 @media only screen and (max-width: 600px) {
+	
+		p#pp1.lead{
+
+	font-size: 24px;
+	color: #2C3E50;
+			margin-top:-40px;
+}
+
+ul#ul1{
+
+	font-size: 22px;
+	color: #2C3E50;
+	margin-top:-40px;
+}
+	
 	
 	.modal-open .modal {
     	overflow-x: hidden !important;
