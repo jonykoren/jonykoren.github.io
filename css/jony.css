@@ -52,8 +52,41 @@ hr {
 }
 .post{
     margin-bottom: 20px;
+    text-align: right;
+    font-size: 20px;
 }
 
 h2{
     text-align: right;}
+}
+
+img#savta{
+    max-width: 100px;
+}
+p#img1{
+    max-width: 100px;
+}
+p#cont{
+    max-width: 700px;
+}
+
+img#img1.center{
+    max-width: 700px;
+}
+
+img#img1a.center{
+    max-width: 700px;
+}
+
+img#img1b.center{
+    max-width: 700px;
+}
+img#img1c.center{
+    max-width: 700px;
+}
+
+code{
+    background: #c8bebe;   
+    width: 700px;
+    text-align: center;
 }
