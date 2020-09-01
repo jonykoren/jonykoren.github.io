@@ -58,27 +58,11 @@ hr {
     margin-bottom: 20px;
     text-align: right;
     font-size: 20px;
+    max-width: 700px !important;
 }
+img#img11.center{
+    max-width: 700px !important;
 }
-
- @media only screen and (max-width: 600px) {
-.post{
-    margin-bottom: 20px;
-    text-align: right;
-    font-size: 14px;
-}
-}
-
-
-h2{
-    text-align: right;}
-}
-
-
-img#img1.center{
-    max-width: 700px;
-}
-
 img#img1a.center{
     max-width: 700px;
 }
@@ -89,6 +73,40 @@ img#img1b.center{
 img#img1c.center{
     max-width: 700px;
 }
+}
+
+ @media only screen and (max-width: 600px) {
+.post{
+    margin-bottom: 20px;
+    text-align: right;
+    font-size: 14px;
+    max-width: 360px !important;
+}
+img#img11.center{
+    max-width: 360px !important;
+}
+img#img1a.center{
+    max-width: 360px;
+}
+
+img#img1b.center{
+    max-width: 360px;
+}
+img#img1c.center{
+    max-width: 360px;
+}
+
+}
+
+
+h2{
+    text-align: right;}
+}
+
+
+
+
+
 
 code{
     background: #c8bebe;   
@@ -112,4 +130,8 @@ padding: 10px 15px;
 margin: 15px 0 15px 0;
 border: 1px solid #cfcfcf;
 background: #efefef !important;
+}
+
+div#copyright.col-lg-12{
+    text-align: center;
 }
