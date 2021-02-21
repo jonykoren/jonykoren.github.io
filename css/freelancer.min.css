@@ -369,6 +369,13 @@ margin-left: -190px;
     margin-top: -270px;
     margin-bottom: -355px;
  }
+	
+svg#my_cv{
+    margin-left: -190px;
+    transform: scale(0.53);
+    margin-top: -270px;
+    margin-bottom: -355px;
+	}
 	.navbar-custom {
 	max-width:100%;
 	}
