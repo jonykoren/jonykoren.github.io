@@ -49,6 +49,9 @@ section#CV.success{
 	background-color: #EDEFF0;
 }
 
+section#portfolio{
+	background-color: #EDEFF0 !important;
+}
 .navbar-custom .navbar-nav li.active a, .navbar-custom .navbar-nav li.active a:active, .navbar-custom .navbar-nav li.active a:focus, .navbar-custom .navbar-nav li.active a:hover{
 
 background: #62BFF7; # Celeste
